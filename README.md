@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmans01&layout=compact&langs_count=10&theme=github_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmans01&layout=compact&langs_count=10&theme=github_dark)
 
 <!---
 - 👋 Hi, I’m @wmans01
